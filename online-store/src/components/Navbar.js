@@ -29,6 +29,11 @@ export default class Navbar extends Component {
             my cart
           </ButtonContainer>
         </Link>
+        <li>
+          <Link to="ethio african store" className="nav-link">
+            our main website is still in development
+          </Link>
+        </li>
       </Nav>
     );
   }
