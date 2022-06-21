@@ -5,7 +5,7 @@ export const storeProducts = [
     img: "img/teffM.jpeg",
     price: 45.0,
     company: "Ethio African",
-    info: "we have your choice of the most important ingredient to make injera, the price is per bag",
+    info: "we have your choice of the most important ingredient to make injera, the price is per bag, please order ahead as we have limited supplies",
     inCart: false,
     count: 0,
     total: 0,
