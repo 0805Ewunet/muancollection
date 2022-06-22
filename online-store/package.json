@@ -2,6 +2,7 @@
   "name": "online-store",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/0805Ewunet/muancollection",
   "dependencies": {
     "@paypal/react-paypal-js": "^7.6.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -36,6 +37,7 @@
   "devDependencies": {
     "eslint-plugin-flowtype": "^8.0.3",
     "eslint-plugin-import": "^2.25.4",
-    "eslint-plugin-react-hooks": "^4.2.1-rc.1-next-a59f53a60-20220308"
+    "eslint-plugin-react-hooks": "^4.2.1-rc.1-next-a59f53a60-20220308",
+    "gh-pages": "^4.0.0"
   }
 }
